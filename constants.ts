@@ -23,7 +23,7 @@ export const USERS: User[] = [
 
 export const LESSONS: Lesson[] = [
   {
-    id: 'html-basics',
+    id: 'html-basics', 
     title: 'Bazat e HTML: Faqja Jote e Parë',
     category: 'HTML',
     difficulty: 'Lehtë',

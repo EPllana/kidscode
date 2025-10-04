@@ -68,7 +68,7 @@ const Certificate: React.FC<CertificateProps> = ({ studentName, onBack }) => {
              </div>
              <div className="text-center">
                 <p className="border-t-2 border-gray-300 pt-2 px-8 text-sm text-text-light">Nënshkrimi i Mësuesit</p>
-                <p className="font-semibold text-text-main">Ernis Asllani</p>
+                <p className="font-semibold text-text-main">Ernis Pllana</p>
              </div>
           </div>
         </div>
