@@ -17,6 +17,7 @@ export const USERS: User[] = [
   { id: 14, username: 'olt', password: 'olt014', role: 'student' },
   { id: 15, username: 'amar', password: 'amar015', role: 'student' },
   { id: 16, username: 'eldi', password: 'eldi016', role: 'student' },
+  { id: 17, username: 'nisi', password: 'nisi01', role: 'student' },
   { id: 100, username: 'ernis', password: 'password', role: 'teacher' },
 ];
 
